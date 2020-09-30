@@ -1,3 +1,5 @@
+Please readme to understand it
+
 yawd-translations, create multilingual django websites
 ======================================================
 
